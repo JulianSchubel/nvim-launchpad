@@ -5,7 +5,7 @@ create, manage and navigate between project directories.
 
 This plugin is a work in progress.
 
-![](assets/nvim-laucnhpad.png)
+![](assets/nvim-launchpad.png)
 
 ## Features
 - Create and manage projects in a simple, organized interface.

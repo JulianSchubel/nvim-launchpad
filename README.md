@@ -3,6 +3,8 @@
 Nvim-Launchpad is a Neovim plugin that provides a simple, organized interface to
 create, manage and navigate between project directories.
 
+This plugin is a work in progress.
+
 ![](assets/nvim-laucnhpad.png)
 
 ## Features

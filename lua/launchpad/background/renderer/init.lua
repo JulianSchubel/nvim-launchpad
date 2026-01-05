@@ -1,0 +1,9 @@
+-- The renderer contract is as follows
+-- a renderer must return a list of extmark specs
+-- engine is responsible for applying them
+-- function Renderer:render(engine) -> ExtmarkSpec[]
+-- Where
+---@class ExtmarkSpec
+---@field row number  -- 0-based
+---@field col number
+---@field opts table -- extmark options
